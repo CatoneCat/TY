@@ -36,5 +36,7 @@ git reset --hard
 使用github上的仓库覆盖本地，本地提交的也会被移除。用之前建议先备份。
 git fetch && git reset --hard origin/master
 
+jupyter数据公式
+http://data-blog.udacity.com/posts/2016/10/latex-primer/
 
 
